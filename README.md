@@ -12,7 +12,7 @@ TUTORIAL: [![TUTORIAL](linkdeimagen)](https://youtu.be/h2Au2ebTXJc?feature=share
 1.- Uso del Script 
 
 ```
-git clone https://github.com/ZLCube/AutoBspwm.git
+https://github.com/Bryan876/entorno.git
 ```
 ```
 cd AutoBspwm
